@@ -21,4 +21,4 @@ project under the MIT license.
 - **Code and installation:** [ChoreStrike/ChoreStrike](https://github.com/ChoreStrike/ChoreStrike)
 - **User guide:** [docs/user-guide.md](https://github.com/ChoreStrike/ChoreStrike/blob/master/docs/user-guide.md)
 - **Security:** please report vulnerabilities privately per the [security policy](https://github.com/ChoreStrike/ChoreStrike/blob/master/docs/SECURITY.md)
-- **Contact:** [chorestrike@gallero.de](mailto:chorestrike@gallero.de)
+- **Questions:** [GitHub Discussions](https://github.com/ChoreStrike/ChoreStrike/discussions/categories/q-a)
